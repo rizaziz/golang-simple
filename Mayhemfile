@@ -2,6 +2,7 @@
 # Mayhemfile: configuration file for testing your target with Mayhem
 # Format: YAML 1.1
 
+
 # Project name that the target belongs to
 project: simple-go-target
 
